@@ -26,7 +26,7 @@ CHECKING FOR NULL VALUES **bold text**
 
 dia.isnull().sum()
 
-"""**SPLITING THE DEPENDENT AND INDEPENDENT VARIABLES**"""
+
 
 dia.columns
 
@@ -38,15 +38,13 @@ dia['Actor or director familiarity_no']=le.fit_transform(dia['Actor or director 
 dia['previous liking for similar movies_no']=le.fit_transform(dia['previous liking for similar movies'])
 dia["Duration of the trailer watched_no"]=le.fit_transform(dia["Duration of the trailer watched "])
 
+"""**SPLITING THE DEPENDENT AND INDEPENDENT VARIABLES**"""
+
 indep=dia[['Genre_no', 'Interest after watching trailer(1-5)',
        'Actor or director familiarity_no', 'Duration of the trailer watched_no',
        'previous liking for similar movies_no']]
 dep=dia[["Like_no"]]
 
-"""**CREATING INSTANCE FOR LOGISTIC REGRESSION**
-
-**PREDICTING THE RESULT**
-"""
 
 X_train, X_test, y_train, y_test = train_test_split(indep, dep, test_size=0.2, random_state=42)
 
@@ -80,7 +78,7 @@ if ans==1:
 else:
   print("You will not like leo movie")
 
-"""**DESCRIBES THE RESULT'S CORRECTNESS (0.6 -> 60% CORRECT)**"""
+
 
 import pickle
 
