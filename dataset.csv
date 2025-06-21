@@ -1,0 +1,59 @@
+Timestamp,Genre preference,Interest after watching trailer(1-5),Actor or director familiarity,Duration of the trailer watched ,previous liking for similar movies,You like leo movie or you don't like
+21/06/2025 10:13:58,Action/Thriller,5,Extremely familiar,2:42,they were okay,Likely to Like
+21/06/2025 10:14:25,Action/Thriller,5,Extremely familiar,2:42,I loved them,Likely to Like
+21/06/2025 10:15:40,Horror,3,Not at all familiar,1:00,I haven’t watched similar movies,Not Likely to Like
+21/06/2025 10:15:56,Horror,5,Not at all familiar,2:30,I loved them,Not Likely to Like
+21/06/2025 10:16:20,Horror,5,Slightly familiar,1:30,I didn’t like them,Likely to Like
+21/06/2025 10:17:13,Action/Thriller,5,Extremely familiar,2:30,I didn’t like them,Likely to Like
+21/06/2025 10:18:58,Comedy,4,Very familiar,2:42,they were okay,Likely to Like
+21/06/2025 10:19:09,Fantacy,4,Very familiar,2:30,I loved them,Likely to Like
+21/06/2025 10:20:09,Action/Thriller,5,Extremely familiar,2:30,I loved them,Likely to Like
+21/06/2025 10:20:26,Horror,3,Somewhat familiar,1:00,I’m not sure,Likely to Like
+21/06/2025 10:21:37,Action/Thriller,3,Extremely familiar,2:30,I didn’t like them,Likely to Like
+21/06/2025 10:21:43,Action/Thriller,4,Very familiar,2:30,they were okay,Likely to Like
+21/06/2025 10:21:58,Action/Thriller,5,Very familiar,2:42,I loved them,Not Likely to Like
+21/06/2025 10:25:11,Comedy,5,Slightly familiar,1:00,I didn’t like them,Likely to Like
+21/06/2025 10:25:16,Action/Thriller,5,Extremely familiar,2:42,I loved them,Likely to Like
+21/06/2025 10:25:24,Action/Thriller,2,Very familiar,2:30,they were okay,Likely to Like
+21/06/2025 10:25:39,Fantacy,4,Somewhat familiar,1:30,they were okay,Not Likely to Like
+21/06/2025 10:25:45,Comedy,5,Somewhat familiar,2:30,I loved them,Likely to Like
+21/06/2025 10:26:07,Fantacy,4,Somewhat familiar,2:30,I didn’t like them,Likely to Like
+21/06/2025 10:26:11,Action/Thriller,5,Extremely familiar,2:42,I loved them,Likely to Like
+21/06/2025 10:26:27,Comedy,5,Extremely familiar,2:42,I’m not sure,Not Likely to Like
+21/06/2025 10:26:27,Comedy,5,Extremely familiar,1:30,I loved them,Likely to Like
+21/06/2025 10:26:39,Fantacy,5,Slightly familiar,2:30,I’m not sure,Likely to Like
+21/06/2025 10:26:49,Horror,3,Somewhat familiar,2:30,I didn’t like them,Not Likely to Like
+21/06/2025 10:26:50,Comedy,3,Very familiar,2:30,I didn’t like them,Likely to Like
+21/06/2025 10:27:00,Action/Thriller,4,Somewhat familiar,1:30,I didn’t like them,Likely to Like
+21/06/2025 10:27:01,Action/Thriller,5,Somewhat familiar,1:00,they were okay,Likely to Like
+21/06/2025 10:27:01,Horror,4,Somewhat familiar,1:30,I haven’t watched similar movies,Not Likely to Like
+21/06/2025 10:27:12,Action/Thriller,3,Somewhat familiar,1:00,they were okay,Likely to Like
+21/06/2025 10:27:12,Fantacy,4,Slightly familiar,1:30,I haven’t watched similar movies,Not Likely to Like
+21/06/2025 10:27:27,Horror,4,Extremely familiar,1:00,I’m not sure,Not Likely to Like
+21/06/2025 10:27:40,Fantacy,3,Very familiar,2:42,I didn’t like them,Likely to Like
+21/06/2025 10:28:21,Action/Thriller,3,Very familiar,2:42,I’m not sure,Likely to Like
+21/06/2025 10:28:49,Horror,4,Very familiar,2:30,I’m not sure,Likely to Like
+21/06/2025 10:29:09,Comedy,4,Somewhat familiar,1:00,they were okay,
+21/06/2025 10:29:29,Action/Thriller,1,Very familiar,1:00,they were okay,Likely to Like
+21/06/2025 10:30:11,Action/Thriller,3,Extremely familiar,00:32,I’m not sure,Not Likely to Like
+21/06/2025 10:31:07,Comedy,5,Very familiar,00:32,they were okay,Likely to Like
+21/06/2025 10:31:15,Comedy,5,Extremely familiar,2:42,I loved them,Likely to Like
+21/06/2025 10:31:36,Action/Thriller,4,Extremely familiar,2:42,they were okay,Likely to Like
+21/06/2025 10:31:44,Action/Thriller,5,Extremely familiar,2:42,I loved them,Likely to Like
+21/06/2025 10:31:44,Horror,5,Very familiar,2:30,they were okay,Not Likely to Like
+21/06/2025 10:32:14,Comedy,5,Extremely familiar,2:30,I loved them,Not Likely to Like
+21/06/2025 10:32:49,Horror,4,Somewhat familiar,2:30,I loved them,Likely to Like
+21/06/2025 10:34:58,Comedy,4,Very familiar,1:30,I’m not sure,Not Likely to Like
+21/06/2025 10:37:24,Comedy,3,Somewhat familiar,2:42,I didn’t like them,Not Likely to Like
+21/06/2025 10:37:48,Action/Thriller,5,Very familiar,2:42,I loved them,Likely to Like
+21/06/2025 10:40:32,Action/Thriller,3,Slightly familiar,2:30,they were okay,Not Likely to Like
+21/06/2025 10:40:48,Horror,5,Very familiar,00:32,they were okay,Likely to Like
+21/06/2025 10:40:48,Action/Thriller,5,Extremely familiar,2:42,I loved them,Likely to Like
+21/06/2025 10:40:59,Action/Thriller,4,Very familiar,2:30,I loved them,Not Likely to Like
+21/06/2025 10:41:06,Fantacy,4,Very familiar,1:00,they were okay,Likely to Like
+21/06/2025 10:41:15,Fantacy,5,Very familiar,1:30,I loved them,Likely to Like
+21/06/2025 10:41:33,Action/Thriller,5,Extremely familiar,2:42,I loved them,Likely to Like
+21/06/2025 10:41:35,Comedy,5,Extremely familiar,2:30,they were okay,Likely to Like
+21/06/2025 10:41:51,Comedy,1,Slightly familiar,1:30,they were okay,Likely to Like
+21/06/2025 10:42:02,Horror,3,Very familiar,2:30,they were okay,Likely to Like
+21/06/2025 10:42:05,Horror,5,Somewhat familiar,2:30,they were okay,Likely to Like

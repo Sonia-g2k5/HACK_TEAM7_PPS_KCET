@@ -1,0 +1,30 @@
+Problem Statement:
+
+Title:
+Predict Movie Like/Dislike from Trailer Feedback
+
+Domain:
+Entertainment
+
+ML Algorithm:
+Logistic Regression
+
+Problem Statement:
+Build a classification model that predicts whether a user will like or dislike a trailer based on their feedback after watching the trailer. Create a Google Form to collect:
+
+Genre preference
+
+Interest after watching trailer (1–5 rating)
+
+Actor/Director familiarity
+
+Duration of trailer watched
+
+Previous liking for similar movies
+
+
+Use logistic regression to predict the binary output:
+0 = Not Likely to Like
+1 = Likely to Like
+
+
